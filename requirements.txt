@@ -1,0 +1,7 @@
+--trusted-host data-science-helpers.s3-website-us-west-2.amazonaws.com
+--find-links http://data-science-helpers.s3-website-us-west-2.amazonaws.com/data_science_helpers/
+data-science-helpers==0.0.1
+streamlit==0.64.0
+pandas==1.1.5
+requests==2.22.0
+schema==0.7.4

@@ -1,0 +1,17 @@
+*.txt
+!requirements.txt
+*.pyc
+*.csv
+*.xlsx
+*.png
+*.jpeg
+*.db
+*.pkl
+*.dot
+*.DS_Store
+.idea/
+__pycache__/
+venv/
+scratch.py
+scratch/
+create_ml_project_structure.sh
